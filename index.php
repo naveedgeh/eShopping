@@ -18,8 +18,8 @@
                     
                     </div>
                     <div class="col-md-8">
-                        <p class="admin-name">Naveed Ahmad</p>
-                        <p class="desgination">Software Engineer</p>
+                        <p class="admin-name">Naveed Ahmad </p>
+                        <p class="desgination">Software Engineer (Web and Android)</p>
                     </div>
                 </div>
             
